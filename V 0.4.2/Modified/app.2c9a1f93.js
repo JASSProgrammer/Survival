@@ -20762,7 +20762,7 @@ webpackJsonp([0], {
                             "index-europe": "Europe",
                             "index-asia": "Asia",
                             "index-players": "players",
-                            "index-play-solo": "Play Solo",
+                            "index-play-solo": "Play Solo Dude",
                             "index-play-duo": "Play Duo",
                             "index-play-squad": "Play Squad",
                             "index-join-team": "Join Team",
